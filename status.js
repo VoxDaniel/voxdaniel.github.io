@@ -1,6 +1,10 @@
 document.write(`
 
-The weather over the past two years in Jogja has been uncomfortable for many people, especially singers. It makes us wonder: "Has nature really changed like this, or is this just a phase?"
+51 songs in 51 days! Finally, my 3-hour playlist is done! I'll be using these in the waiting room of our studio in Jogja so people can enjoy them.<br/><br/>
+
+And I'm taking a break from songwriting — weeks, if not months. My next goal is probably 49 more songs. I'm super excited! 😁 <br/><br/>
+
+If you enjoy my songs, please say hi by emailing me. Thank you so much!
 
 <br/><br/><hr/><br/>
 
